@@ -1,2 +1,2 @@
-# What is this?
-Memo of Issues. Click Issues tab, Open and Closed issues are avalable.
+### This repository is...
+for my issues to be soloved. See Issues tab.
